@@ -85,6 +85,7 @@ FROM PortfolioProject..Nashville_Housing
 
 
 Use "SUBSTRING" to split the "PropertyAddress" and view the results.
+
 **NOTE:** No changes are made to the data. This is only for viewing. The changes are made in the next code.
 ```sql
 SELECT PropertyAddress,
