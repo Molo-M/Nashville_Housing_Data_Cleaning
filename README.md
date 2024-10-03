@@ -1,4 +1,4 @@
-# Data Cleaning Portfolio Project: Nashville Housing Data
+# Data Cleaning Project: Nashville Housing Data
 This project focuses on cleaning and standardizing a real-world dataset on Nashville housing transactions. The key steps include standardizing date formats, filling in missing values, breaking out addresses into individual components, standardizing categorical data, removing duplicates, and dropping unused columns.
 
 **Skills used:** Joins, CTEs, Substring, Update, Row_Number, Case, Self-Join, SQL Functions
