@@ -284,7 +284,7 @@ Drop OwnerAddress, TaxDistrict, PropertyAddress because we already created colum
 ALTER TABLE PortfolioProject..Nashville_Housing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress
 ```
-![Part 6](https://github.com/Molo-M/Nashville_Housing_Data_Cleaning/blob/main/sql_images/Part_6_2.PNG)
+![Part 6](https://github.com/Molo-M/Nashville_Housing_Data_Cleaning/blob/main/sql_images/Part_6_3.PNG)
 
 We also dropped SaleDate because we created a standardized date column for it earlier
 ```sql
