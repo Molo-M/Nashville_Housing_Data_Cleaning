@@ -137,6 +137,7 @@ FROM PortfolioProject..Nashville_Housing
 ![Part 3](https://github.com/Molo-M/Nashville_Housing_Data_Cleaning/blob/main/sql_images/Part_3_8.PNG)
 
 Use "PARSENAME" to split the "OwnerAddress" and view the results.
+
 **NOTE:** No changes are made to the data. This is only for viewing. The changes are made in the next code.
 ```sql
 SELECT OwnerAddress,
